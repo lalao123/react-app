@@ -1,0 +1,10 @@
+.Cell{width: 100%;padding-bottom:1rem;}
+.Cell ul{display: flex;justify-content:space-around;width: 100%;}
+.Cell ul li{list-style: none;padding: 1rem .5rem 0 .5rem;background: #fff;width: 9rem;height: 10rem;text-align: center;}
+.Cell ul li a{ text-decoration:none}
+.Cell ul li a img{width: 7rem;height: 5rem;}
+.Cell ul li a .bottom{}
+.Cell ul li a .bottom h1{font: 1rem/2rem "";color: #dd0f0f;}
+.Cell ul li a .bottom .content{display: flex;justify-content:space-around;}
+.Cell ul li a .bottom .content p{color: #333;padding-left: 1.5rem;}
+.Cell ul li a .bottom .content i{color: #aace52;padding-right: 1rem;}

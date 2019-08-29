@@ -1,0 +1,66 @@
+.Column{
+	background-color: #FFF;
+	overflow: hidden;
+}
+.Column .otherTop .search{
+	width: 90% !important;
+	margin: 0 auto;
+	padding-top: 1rem;
+	float: none;
+}
+.Column .otherTop .search i{
+    color: #666;
+    position: absolute;
+	padding-left: .8rem;
+	line-height: 1.5rem;
+}
+.Column .otherTop .search input{
+    color: #666;
+    border: 1px solid #bfbfbf;
+    width: 80%;
+    height: 1.5rem;
+    line-height: 1.5rem;
+    font-size: .5rem;
+    border-radius: 1.5rem;
+    text-indent: 2.5rem;
+}
+.oneClassify{
+	border-bottom: 1px solid #e5e5e5;list-style: none;
+}
+.oneClassify .wrapper {position:relative;height: 2.5rem;width: 100%;overflow: hidden;margin:0 auto;}
+.oneClassify .wrapper .scroller {position:absolute;height:2.5rem;}
+.oneClassify .wrapper .scroller ul{overflow: hidden;height:2.5rem;display: flex;}
+.oneClassify .wrapper .scroller li {height:2.5rem;color:#999;font: 1rem/2.6rem "";text-align: center;list-style:none;width: 4rem;}
+.oneClassify .wrapper .scroller li a{color:#333;display:block;margin:0 10px;padding:0 5px; font-size: 1rem;text-decoration: none;}
+.oneClassify .wrapper .scroller li.cur a{color:#aace52;height:2.5rem;border-bottom:.02rem solid #aace52}
+
+.twoClassify{
+	overflow: hidden;
+	width: 30%;
+	position: absolute;
+}
+.twoClassify .menu{
+	width: 100px;
+	float: left;
+	background-color: #f6f4f4;
+	overflow-x: hidden;
+	overflow-y: auto;
+}
+.twoClassify .menu ul li a{
+	display: block;
+	width: 100%;
+	line-height: 50px;
+	text-align: center;
+	padding: 0 10px;
+	font-size: 14px;
+	color: #7c7c7c;
+	border-bottom: 1px solid #eee;
+	overflow: hidden;
+	box-sizing:border-box;
+	-moz-box-sizing:border-box; /* Firefox */
+	-webkit-box-sizing:border-box; /* Safari */
+}
+.twoClassify .menu ul li.active a{
+	color: #7c7c7c;
+	background-color: #FFF;
+}

@@ -1,0 +1,47 @@
+.Follow{background: #f1f1f1;}
+.Follow div.cell:nth-child(2){padding-top: 4.5rem;}
+.Follow .shop-top{width: 100%;height: 5rem;}
+.Follow .shop{
+    width: 100%;
+    height: 4.5rem;
+    display: flex;
+    justify-content: space-between;
+    background: #aace52;
+    position: fixed;
+}
+.Follow .shop .shop_name{
+	padding-top: .5rem;
+}
+.Follow .shop .shop_name span{
+    display: flex;
+}
+.Follow .shop .shop_name span i{
+    font-size:1rem;
+    padding-left: .5rem;
+	color: #FFF;
+}
+.Follow .shop .shop_name b{
+	color: #FFF;
+    font:.5rem/1.5rem "";
+    padding-left: 1rem;
+
+}
+.Follow .shop .shop_name p{
+	color: #FFF;
+    font:.5rem/1.5rem "";
+    padding-left: 2.5rem;
+
+}
+
+.Follow .shop .weather{
+	width: 5rem;height: 3.5rem;padding-top: .5rem;
+}
+.Follow .shop .weather i{
+	font-size: 1.5rem;
+	color: #FFF;
+}
+.Follow .shop .weather p{
+	color: #FFF;
+	margin-top: 7px;
+	font-size: 12px;
+}

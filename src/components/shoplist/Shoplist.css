@@ -1,0 +1,13 @@
+.Shoplist{width: 100%;}
+.Shoplist ul{}
+.Shoplist ul li{background: #fff;}
+.Shoplist ul li .goods{display: flex;justify-content: space-between;align-items: center;}
+.Shoplist ul li .goods span{}
+.Shoplist ul li .goods input{}
+.Shoplist ul li .goods img{width:6rem;height:4rem;}
+.Shoplist ul li .goods .right .dis{}
+.Shoplist ul li .goods .right .dis p{}
+.Shoplist ul li .goods .right .dis p font{}
+.Shoplist ul li .goods .right .car-num{}
+.Shoplist ul li .goods .right .car-num i{}
+.Shoplist ul li .goods .right .car-num input{}

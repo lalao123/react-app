@@ -1,0 +1,7 @@
+.header{height:5.6rem;background:#aace52; width: 100%;padding: 0;margin: 0;position: fixed;z-index: 1000;}
+.header .logo{display: flex;position: relative;top:.5rem;justify-content: space-between;justify-items: center;}
+.header .logo i{width: 1.6rem;height:1.6rem;color: #fff;font-size: 1rem;padding: 0.8rem 0 0 1rem;display: block;}
+.header .logo .icon-liebiao{display: block;right: 0;position: absolute;}
+.header .logo b{font: .8rem/2.6rem "";color: #fff;flex: 2;}
+.header .search input{width: 20.8rem;;height: 1.8rem;border: 0;background: #fff;border-radius: .2rem;text-indent: 2.5rem;margin-top: .6rem;}
+.header .search i{font-size: 1rem;position: relative;left: 1.8rem;color: #7e7e7e;}

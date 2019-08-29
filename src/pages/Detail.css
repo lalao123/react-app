@@ -1,0 +1,11 @@
+body{background: #fff;}
+.Detail{}
+.Detail .nav{width: 100%;padding-top: 7rem;}
+.Detail .nav .detail_top{}
+.Detail .nav .detail_top i{color: #aace52;padding-left: 1rem;}
+.Detail .nav .detail_top img{display: block;margin: 0 auto;}
+.Detail .nav .detail_top p{text-indent: 3rem;margin-top: -1.3rem}
+.Detail .nav .detail_content{width: 90%;margin: 0 auto;}
+.Detail .nav .detail_content font{color: red;font: 1.5rem/3rem "";}
+.Detail .nav .detail_content i{padding-left: 13rem;color: #aace52;font-size: 1rem;}
+.Detail .nav .detail_content p{font-size: .5rem;display: block;border-top: 0.1rem solid #e1e1e1;padding-top: 1rem;}

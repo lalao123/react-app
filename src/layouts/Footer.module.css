@@ -1,0 +1,6 @@
+.footer{height:3.8rem;width: 100%;position:fixed;bottom: 0;background: #f1f1f1;}
+.footer ul{width:100%;height: 3.8rem;margin: 0;padding: 0;margin-top: .6rem;display: flex;justify-content: space-between;}
+.footer ul li{float: left;list-style: none;height: 3.8rem;width: 4rem;text-align: center;}
+.footer ul li i{font-size:1.2rem;width: 20%;color:#7e7e7e; }
+.footer ul li p{font-size:.6rem;margin: 0;margin-top: .4rem;color: #333;}
+.footer ul li a{height: .5rem;border-bottom: 0.1rem solid #aace52;color: #aace52;}

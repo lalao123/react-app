@@ -1,0 +1,15 @@
+.List{
+    width:70%;
+    padding:1rem 0 0 7.8rem;
+    display: flex;
+    justify-content: space-between;border-bottom: 1px #f1f1f1 solid;
+}
+.List img{width: 6rem;height: 4.5rem;padding-top: 1.5rem;}
+.List .dis{}
+.List .dis h1{font: 1rem/3rem "";} 
+.List .dis .operation{display: flex;justify-content: space-between;}
+.List .dis .operation font{color: red;}
+.List .dis .operation font b{}
+.List .dis .operation .car{display: flex;justify-content: space-between;width: 50%;padding-right: .6rem;}
+.List .dis .operation .car i{font-size: 1rem;color: #aace52;}
+.List .dis .operation .car input{width: 20%;border: 0;}
